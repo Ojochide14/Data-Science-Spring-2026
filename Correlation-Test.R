@@ -1,4 +1,4 @@
-#Ricardo Barnes, 01/26/2026, Purpose: Perform Correlation Test
+#Ojochide Usman-Aguda, 01/26/2026, Purpose: Perform Correlation Test
 
 #Load the ggpubr library
 library("ggpubr")
@@ -41,4 +41,5 @@ S = 10292, p-value = 1.488e-11
 alternative hypothesis: true rho is not equal to 0
 sample estimates:
   rho 
+
 -0.886422 
